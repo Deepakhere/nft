@@ -46,7 +46,6 @@ input:focus, textarea:focus {
 
 button {
   border: none;
-Color:aqua;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -116,7 +115,7 @@ h4::before {
 }
 
 .navbar {
-  background-color: black;
+  background-color: #fff;
   z-index: 5;
   margin: 0 auto;
   padding: 20px 0;
