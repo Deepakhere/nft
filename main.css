@@ -295,13 +295,11 @@ h4::before {
           justify-content: space-evenly;
   gap: 40px;
   margin-top: 40px;
-Color:blue;
 }
 
 .service .service-items .item span {
   font-weight: bold;
   display: block;
-Color:blue;
 }
 
 .service .service-items .item img {
